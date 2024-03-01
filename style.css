@@ -1,0 +1,35 @@
+#titulo{
+    
+    color: white;
+    text-align: center;
+
+}
+#cabeca{
+    background-color: blue;
+    display: block;
+    height: 90px;
+
+}
+#nav{
+    display: inline;
+    color: #004587;
+    font-size: 16px;
+    background-color: grey;
+    text-align: center;
+    ;
+    padding: 15px;
+    border: none solid ;
+    border-radius: 12px;
+   
+  
+}
+#formulario{
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: auto;
+    padding: 10px;
+    margin-top: 5px;
+
+
+}
